@@ -1,6 +1,6 @@
 ---
-title: Built For Speed
-subtitle: Awake is Built to Be Blazing Fast
+title: How to clean your yoga mat
+subtitle: Tips to clean yoga mat depending of the material it's made of
 category:
   - About Awake
 author: Daniel Kelly
