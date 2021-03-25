@@ -2,7 +2,7 @@
 title: How to clean your yoga mat
 subtitle: Tips to clean yoga mat depending of the material it's made of
 category:
-  - About Awake
+  - Tips
 author: Daniel Kelly
 date: 2019-08-02T04:27:56.800Z
 featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
